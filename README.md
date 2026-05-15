@@ -4,6 +4,14 @@ Repository ini berisi eksperimen, preprocessing otomatis, dan training model unt
 
 Project menggunakan dataset BankChurners untuk klasifikasi customer churn. Fokus utama project adalah alur MLOps sederhana: preprocessing otomatis, training model, MLflow Tracking, logging artifact, dan integrasi DagsHub.
 
+## MLflow Dashboard
+
+![Dashboard MLflow](screenshoot_dashboard.png)
+
+## MLflow Artifacts
+
+![Artifacts](screenshoot_artifak.png)
+
 ## Dataset
 
 Dataset yang digunakan:
