@@ -1,5 +1,4 @@
 # Ignore context file created for notes
-context.md
 mlruns/
 mlartifacts/
 artifacts/
